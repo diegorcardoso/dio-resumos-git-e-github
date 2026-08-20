@@ -8,7 +8,7 @@ Repositório para armazenar resumos sobre  o Git e Github do curso Versinamento 
 
 
 
-\## 📔 Documentação Git
+\## 📔 Documentação Git e Github
 
 \- \[Documentação Git] (https://git-scm.com/docs)
 
